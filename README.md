@@ -23,3 +23,9 @@ A simple interactive pizza ordering web application built using Code.org App Lab
 
 ## How to Run
 Download the repository and open `index.html` in a web browser.
+## Screenshots
+![Login](login.png)
+![Pizza Size](pizzasize.png)
+![Toppings](toppings.png)
+![Confirm Order](ConfirmOrder.png)
+![Order Complete](ordercomplete.png)

@@ -1,6 +1,6 @@
 # pizza-app
 Pizza ordering web app built using Code.org App Lab (JavaScript, HTML, CSS).
-A simple interactive pizza ordering web application built using Code.org App Lab.
+A interactive pizza ordering web application built using Code.org App Lab.
 
 ## Features
 - User login screen
@@ -28,4 +28,6 @@ Download the repository and open `index.html` in a web browser.
 ![Pizza Size](pizzasize.png)
 ![Toppings](toppings.png)
 ![Confirm Order](ConfirmOrder.png)
-![Order Complete](ordercomplete.png)
+![Order Complete](ordercomplete.png)   
+
+
